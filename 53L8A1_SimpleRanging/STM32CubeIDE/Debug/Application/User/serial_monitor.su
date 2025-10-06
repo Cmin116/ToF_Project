@@ -1,0 +1,8 @@
+../Application/User/serial_monitor.c:32:13:ROI_OnUpdate	16	static
+../Application/User/serial_monitor.c:55:6:MX_SERIALMON_Init	8	static
+../Application/User/serial_monitor.c:80:6:MX_SERIALMON_Process	24	static
+../Application/User/serial_monitor.c:109:13:SM_SensorResetSequence	8	static
+../Application/User/serial_monitor.c:122:13:SM_ConfigAndStart	8	static
+../Application/User/serial_monitor.c:146:13:SM_PrintFrame	40	static
+../Application/User/serial_monitor.c:188:16:SM_GetKeyNonBlocking	16	static
+../Application/User/serial_monitor.c:199:13:SM_ClearScreen	8	static
